@@ -11,3 +11,5 @@ de
 codigo
 ```
 **la negrita es así** y *la cursiva es así*
+
+md cheatcheet para más
