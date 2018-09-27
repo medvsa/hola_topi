@@ -2,10 +2,12 @@
 Multimedia 2
 ## sería el titulo 2 h2
 si quiero escribir un parrafom lo hago así. `esto es para código`
-`esto 
+```
+esto 
 es
 para
 lineas
 de
-codigo`
+codigo
+```
 **la negrita es así** y *la cursiva es así*
